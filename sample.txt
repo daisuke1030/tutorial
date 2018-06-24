@@ -1,4 +1,3 @@
 サルでもわかるGitコマンド
 add 変更をインデックスに登録する
-sample2で変更
-sampleで変更
+tutorial2で変更
